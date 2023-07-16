@@ -1,0 +1,22 @@
+TASK 3
+
+Integration time!! Now that we have learnt how to build simple APIs in FastAPI, and basic CRUD in MongoDB, lets connect the two.
+
+1. Build a simple library management service --> create, update, delete students --> in FastAPI. Learn how to pass query params, 
+request bodies and URL Params.... 
+Follow the tutorial for help - https://fastapi.tiangolo.com/tutorial/
+
+2. The APIs should save, modify and delete the data in the database - Use MongoDB, spin up a free forever M0 cluster on 
+MongoDB Atlas for testing....
+
+3. To use MongoDB in Python, we have pymongo as the official driver for Python. But this is a sync driver -- meaning, 
+   it will not have the goodness of async/await we learnt that FastAPI comes out of box with!
+
+   To overcome this, MongoDB released their official Async Python driver - motor which is nothing but a async wrapper on PyMongo.
+So essentially the same functions/syntax, but just using AsyncIOMotorClient rather than MongoClient and also using async/await.....
+
+Help Links
+https://pymongo.readthedocs.io/en/stable/
+https://motor.readthedocs.io/en/stable/ (Use AsyncIO Tutorial - https://motor.readthedocs.io/en/stable/tutorial-asyncio.html)
+
+Goal --> working APIs to create/update/delete students, running from Postman!

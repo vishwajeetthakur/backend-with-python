@@ -1,0 +1,19 @@
+TASK 4
+
+Now when we have the basics of API and CRUD operations done, lets deep dive into the database first and learn how to achieve complex operations - 
+
+1. Learn MongoDB Aggregations - https://www.mongodb.com/docs/manual/aggregation/
+
+2. What are aggregation pipelines?
+
+3. What are stages?
+
+4. How is data sent from one stage to another?
+
+5. Learn about basic aggregations stages today only.
+    $match
+    $project
+    $limit
+    $sort
+    $count
+    $set / $addFields (how it is diff from $project)

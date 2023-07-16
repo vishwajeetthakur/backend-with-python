@@ -1,0 +1,14 @@
+TASK 5
+
+Lets continue on MongoDB Aggregations -- 
+
+1. Lets learn about the next stages in MongoDB Aggregation, and I will then be sharing an assignment to you which will use these stages -
+
+2. Best way is to look at examples and not syntax, step by step they increase the complexity. Follow official mongodb docs
+
+    $group
+    $lookup
+    $unwind
+    $bucket
+    $bucketAuto
+    $facets
