@@ -1,0 +1,15 @@
+TASK 7
+
+
+1. Let us push our own team members !! 🥰
+
+2. Let's start building our project... While this would not be your final project, this will let all of you build stuff and then add more components to it.
+
+3. Let's start building an e-commerce website... Let's see how you model the data, build the APIs, etc...
+
+4. For now - let's build
+    a. API for add a product. Try to make it a complex object, real life style...
+    b. APIs for update, delete, get and list products... Add appropriate request body and query params.
+
+    c. APIs to add a product into basket
+    d. APIs to create a new order from basket.. as well as list old orders...

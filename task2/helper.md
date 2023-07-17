@@ -51,7 +51,11 @@ To interact with MongoDB using the MongoDB shell, use the following commands:
   ```
   mongosh --port 27017 --authenticationDatabase "<DATABASE_NAME>" -u "USERNAME"
   ```
-
+- Create database User:
+  ```
+  db.createUser({user: 'ecomUser', pwd: passwordPrompt(), roles: [ {role: 'readWrite',db: 'ecom'}, {role: 'read', db: 'pizza'}]})
+  ```
+  
 - Create a user in MongoDB: (Please provide the appropriate command for user creation)
 
 - Load data from a BSON file into MongoDB:
