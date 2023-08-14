@@ -1,0 +1,7 @@
+Task 10
+
+Tasks for 24 Jul
+
+1. Lets implement a simple zoom clone (video only) using Redis PubSub....
+2. Let's implement this article  - https://www.linkedin.com/pulse/how-build-mini-zoom-app-shrey-batra/?trackingId=W03HSdD0SD60vd5OPqVPow%3D%3D 
+where we use Redis PubSub to build a zoom.

@@ -13,3 +13,4 @@ TASK 7
 
     c. APIs to add a product into basket
     d. APIs to create a new order from basket.. as well as list old orders...
+    c. ApIs for user creation, user basket, placing order and getting all orders

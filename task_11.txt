@@ -1,0 +1,12 @@
+
+TASK - MONGO-DB
+
+
+Read this blog I published - https://www.linkedin.com/pulse/mongodb-series-part-4-indexing-basics-types-shrey-batra/?trackingId=4RuV5wvNQTSRPNCWRon4aA%3D%3D
+
+Play around with sample data...
+
+Check .explain in MongoDB....
+try using both .explain and .aggregate([...], explain=True) and see how queries are using the Index and how they are not...
+
+You can use the MongoDB Atlas SampleDataSet for this!

@@ -1,0 +1,14 @@
+TASK 8
+
+Let's start learning Redis!
+@everyone 
+
+1. What is Redis - https://redis.io/
+2. [Imp] Data structures / Data Types in Redis - https://redis.io/docs/data-types/
+strings, lists, sets, hashes, sorted sets only
+3. Install redis locally.
+4. Connect to redis and run commands
+5. SET, GET, HSET, HGET, HGETALL, LPUSH, etc for all the above data types mentioned.
+6. Learn how to connect the same with python - https://redis.io/docs/clients/python/
+
+7. Try to write a python script to do some operations in python, using lists, sets and hashmaps...

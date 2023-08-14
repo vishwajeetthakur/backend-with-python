@@ -1,0 +1,7 @@
+task 9
+
+1. Complete Redis above
+2. Add Redis to the e-commerce app we were all making
+3. Try to cache things like -
+4. fetch user details from cache first, before DB. If not in cache, then from DB...
+5. Not everything has to be cached... Try using HashMaps and Lists to cache basket of users...

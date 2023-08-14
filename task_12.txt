@@ -1,0 +1,17 @@
+
+TASK 
+
+Hey @everyone let's start exploring AWS SQS service... As we used Redis PubSub, SQS is a queue system...
+
+Let's create a simple hello world msg system, create a producer and a consumer...
+
+Use boto3 package in python to connect to your AWS accounts...
+
+Post doubts on ⁠b-1-tech-doubts , I'll setup a doubt call also this weekend.
+
+Use a Standard SQS queue and not FIFO
+
+REFERENCE: 
+1. https://hands-on.cloud/boto3-sqs-tutorial/
+2. https://perandrestromhaug.com/posts/writing-an-sqs-consumer-in-python/
+

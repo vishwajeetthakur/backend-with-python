@@ -50,7 +50,7 @@ def create_book(book: Book):
 #         array.append(document)
 #     # print(array)
 #     return array
-
+# if you have response model = it can avoid the error of Objectid
 @app.get('/books', response_model=List[Book])
 def get_books():
     db = get_database()
