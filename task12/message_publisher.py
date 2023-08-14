@@ -24,7 +24,6 @@ response = sqs.create_queue(
 # get Queue URL
 
 queue_url = response['QueueUrl'] 
-queue_url = "https://sqs.us-east-1.amazonaws.com/031901161230/video-queue" 
 
 count = 0 
 while count < 10 :
